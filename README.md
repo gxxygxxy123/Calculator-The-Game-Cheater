@@ -4,15 +4,15 @@
 
 ## Button Usage
 
-![image](https://imgur.com/OhrVQ6x.png)
+![image](https://imgur.com/n5cGGaU.png)
 ```
     button.push_back("+4");
 ```
-![image](https://imgur.com/4WVxQIB.png)
+![image](https://imgur.com/duiROry.png)
 ```
     button.push_back("-9");
 ```
-![image](https://imgur.com/sruKyjL.png)
+![image](https://imgur.com/zrHNICy.png)
 ```
     button.push_back("x3"); (If negative then "x-3")
 ```
@@ -20,7 +20,7 @@
 ```
     button.push_back("/4");
 ```
-![image](https://imgur.com/SOr2eza.png)
+![image](https://imgur.com/VWu0SWI.png)
 ```
     button.push_back("Reverse");
 ```
@@ -28,7 +28,7 @@
 ```
     button.push_back("<<");
 ```
-![image](https://imgur.com/4LFaCfJ.png)
+![image](https://imgur.com/sxLRIJG.png)
 ```
     button.push_back("+/-");
 ```
@@ -36,9 +36,13 @@
 ```
     button.push_back("6"); (Just Enter the number directly)
 ```
-![image](https://imgur.com/OotltqC.png)
+![image](https://imgur.com/0dIvVq1.png)
 ```
     button.push_back("2=>10");
+```
+![image](wait...)
+```
+	button.push_back("^-3");
 ```
 If I have time I'll add other buttons
 
