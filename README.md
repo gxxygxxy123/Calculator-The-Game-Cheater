@@ -38,22 +38,14 @@
 ```
 ![image](https://imgur.com/OotltqC.png)
 ```
-    button.push_back("=>");
+    button.push_back("2=>10");
 ```
 If I have time I'll add other buttons
 
 ## Example
-<img src="https://imgur.com/OCOb0BV.jpg" width="70" />
-<img src="https://imgur.com/OCOb0BV.jpg" width="70" />
-<img src="https://imgur.com/UhWb9WL.jpg" width="40" />
-<img src="https://imgur.com/jivxj0S.jpg" width="70" />
-<img src="https://imgur.com/nQImlJy.jpg" width="70" />
-<img src="https://imgur.com/Xd9Fk5f.jpg" width="40" />
-<!--
-![image](https://imgur.com/OCOb0BV.jpg | width=70)
-![image](https://imgur.com/4qqS8l3.jpg | width=70)
-![image](https://imgur.com/UhWb9WL.jpg | width=40)
-![image](https://imgur.com/jivxj0S.jpg | width=70)
-![image](https://imgur.com/nQImlJy.jpg | width=70)
-![image](https://imgur.com/Xd9Fk5f.jpg | width=40)
--->
+<img src="https://imgur.com/OCOb0BV.jpg" width="400" />
+<img src="https://imgur.com/4qqS8l3.jpg" width="400" />
+<img src="https://imgur.com/UhWb9WL.jpg" width="150" />
+<img src="https://imgur.com/jivxj0S.jpg" width="400" />
+<img src="https://imgur.com/nQImlJy.jpg" width="400" />
+<img src="https://imgur.com/Xd9Fk5f.jpg" width="150" />
