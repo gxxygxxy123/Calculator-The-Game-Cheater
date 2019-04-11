@@ -43,9 +43,9 @@
 If I have time I'll add other buttons
 
 ## Example
-<img src="https://imgur.com/OCOb0BV.jpg" width="400" />
-<img src="https://imgur.com/4qqS8l3.jpg" width="400" />
-<img src="https://imgur.com/UhWb9WL.jpg" width="150" />
-<img src="https://imgur.com/jivxj0S.jpg" width="400" />
-<img src="https://imgur.com/nQImlJy.jpg" width="400" />
-<img src="https://imgur.com/Xd9Fk5f.jpg" width="150" />
+<img src="https://imgur.com/OCOb0BV.jpg" width="250" />
+<img src="https://imgur.com/4qqS8l3.jpg" width="300" />
+<img src="https://imgur.com/UhWb9WL.jpg" width="200" />
+<img src="https://imgur.com/jivxj0S.jpg" width="250" />
+<img src="https://imgur.com/nQImlJy.jpg" width="300" />
+<img src="https://imgur.com/Xd9Fk5f.jpg" width="200" />
